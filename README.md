@@ -13,13 +13,13 @@ DualSpeed comprises fast-slow modes. The fast-mode is the primary mode, which in
 
 ## Setup
 
-This repo is lightly modified from the [LLaVA](https://github.com/haotian-liu/LLaVA) codebase. The set up is the same as the orginial codebase, including environment, data, and evaluation.
+This repo is lightly modified from the [LLaVA](https://github.com/haotian-liu/LLaVA) codebase. The setup is the same as the original codebase, including environment, data, and evaluation.
 
 The core framework of DualSpeed is implemented in [llava_llama.py](https://github.com/dingkun-zhang/DualSpeed/blob/main/llava/model/language_model/llava_llama.py)
 
 ## Citation
 
-If you find LLaVA useful for your research and applications, please cite using this BibTeX:
+If you find DualSpeed useful for your research and applications, please cite using this BibTeX:
 ```bibtex
 @article{zhang2026dualspeed,
   title={Fast-Slow Efficient Training for Multimodal Large Language Models via Visual Token Pruning},
