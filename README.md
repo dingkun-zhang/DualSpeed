@@ -19,7 +19,7 @@ The core framework of DualSpeed is implemented in [llava_llama.py](https://githu
 
 ## Citation
 
-If you find LLaVA useful for your research and applications, please cite using this BibTeX:
+If you find DualSpeed useful for your research and applications, please cite using this BibTeX:
 ```bibtex
 @article{zhang2026dualspeed,
   title={Fast-Slow Efficient Training for Multimodal Large Language Models via Visual Token Pruning},
