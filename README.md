@@ -1,7 +1,7 @@
 <h1 align="center"> Fast-Slow Efficient Training for Multimodal Large Language Models via Visual Token Pruning
 </h1>
 
-Achieving **2-4$\times$ training speedup** ⏩ for MLLMs while retaining **over 99% performance** 💪.
+Achieving **2-4× training speedup** ⏩ for MLLMs while retaining **over 99% performance** 💪.
 
 [📄[Paper](https://arxiv.org/abs/2602.03815)]
 
