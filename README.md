@@ -13,7 +13,7 @@ DualSpeed comprises fast-slow modes. The fast-mode is the primary mode, which in
 
 ## Setup
 
-This repo is lightly modified from the [LLaVA](https://github.com/haotian-liu/LLaVA) codebase. The set up is the same as the orginial codebase, including environment, data, and evaluation.
+This repo is lightly modified from the [LLaVA](https://github.com/haotian-liu/LLaVA) codebase. The setup is the same as the original codebase, including environment, data, and evaluation.
 
 The core framework of DualSpeed is implemented in [llava_llama.py](https://github.com/dingkun-zhang/DualSpeed/blob/main/llava/model/language_model/llava_llama.py)
 
